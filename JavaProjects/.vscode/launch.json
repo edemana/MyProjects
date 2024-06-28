@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SinglyLinkedList",
+            "request": "launch",
+            "mainClass": "SinglyLinkedList",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "DoublyLinkedList",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "NegCounter",
+            "request": "launch",
+            "mainClass": "NegCounter",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "WildCardNeedDemo",
+            "request": "launch",
+            "mainClass": "WildCardNeedDemo",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "Hub",
+            "request": "launch",
+            "mainClass": "Hub",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "GenDemo1",
+            "request": "launch",
+            "mainClass": "GenDemo1",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "MoviesListApp",
+            "request": "launch",
+            "mainClass": "MoviesListApp",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "MoviesListApplication",
+            "request": "launch",
+            "mainClass": "MoviesListApplication",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "GenDemo",
+            "request": "launch",
+            "mainClass": "GenDemo",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arr",
+            "request": "launch",
+            "mainClass": "Arr",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "CaseStudy",
+            "request": "launch",
+            "mainClass": "CaseStudy",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "Classes",
+            "request": "launch",
+            "mainClass": "Classes",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "ComputeVal",
+            "request": "launch",
+            "mainClass": "ComputeVal",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "ConnectFour",
+            "request": "launch",
+            "mainClass": "ConnectFour",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "DeckOfCards",
+            "request": "launch",
+            "mainClass": "DeckOfCards",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "EssentialStore",
+            "request": "launch",
+            "mainClass": "EssentialStore",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "GiveTry",
+            "request": "launch",
+            "mainClass": "GiveTry",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "GuessingGame",
+            "request": "launch",
+            "mainClass": "GuessingGame",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "Hangman",
+            "request": "launch",
+            "mainClass": "Hangman",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "IncomeTaxCalculator",
+            "request": "launch",
+            "mainClass": "IncomeTaxCalculator",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "MAL",
+            "request": "launch",
+            "mainClass": "MAL",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "MoviesTest",
+            "request": "launch",
+            "mainClass": "MoviesTest",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "MyClassTest",
+            "request": "launch",
+            "mainClass": "MyClassTest",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "NewDST",
+            "request": "launch",
+            "mainClass": "NewDST",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "PasswordGenerator",
+            "request": "launch",
+            "mainClass": "PasswordGenerator",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "PrintCalendar1",
+            "request": "launch",
+            "mainClass": "PrintCalendar1",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "TestPlanets",
+            "request": "launch",
+            "mainClass": "TestPlanets",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "Tgame",
+            "request": "launch",
+            "mainClass": "Tgame",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "TreasuryBill",
+            "request": "launch",
+            "mainClass": "TreasuryBill",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "TryMe",
+            "request": "launch",
+            "mainClass": "TryMe",
+            "projectName": "JavaProjects_57af7115"
+        },
+        {
+            "type": "java",
+            "name": "myArrays",
+            "request": "launch",
+            "mainClass": "myArrays",
+            "projectName": "JavaProjects_57af7115"
+        }
+    ]
+}
